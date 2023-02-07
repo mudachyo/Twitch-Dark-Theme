@@ -1,0 +1,76 @@
+/* Цвет меню, шапки, чата и т.д*/
+.tw-root--theme-dark .side-nav, .JwLSY, .fLaIqI, .jBYVfx, .hfPMPn, .jmUA-dj, .jaGgya, .gVEmBy, .hZLfAO, .gHqJZO, .kRxsqs, .idpcGQ {
+    background-color: #252d38 !important;
+}
+
+/* Описание и т.д */
+.eiGFTf, .iYgXhH, .iofXOu, .fFTwxZ, .bhLqhW, .elZcx, .cbnNmC, .fpduC, .btPUvt, .fkVAoF, .bzQeNe, .tw-root--theme-dark .side-nav-card__link:hover, .gaFNUc, .daXsjp, .channel-root__info .channel-info-content, .home-header-sticky, .home-header-sticky__inner, .home-header-sticky__wrapper, .stream-schedule__header, .jjtlTM, .video-player__container, .CpjkP, .chat-wysiwyg-input__editor, .chat-wysiwyg-input__editor:hover, .tw-root--theme-dark body
+{
+    background-color: #1d242d !important;
+}
+
+/* Расписание цвет */
+.VeDLT, .iPJuXb {
+    background-color: #0f1318 !important;
+}
+
+/* Кнопки */
+.eVWnXL, .gOUHLW, .ivjxmt {
+    background-color: #5b87b3 !important;
+}
+
+/* Галочка цвет и текст */
+.dvUIAv, .jSrrlW:visited, .llpCRa, .tw-root--theme-dark .navigation-link.active, .tw-root--theme-dark .navigation-link:hover {
+    color: #75b2ef !important;
+}
+
+/* Цвет онлайна */
+.dMXHmM {
+    background-color: #ed4245 !important;
+}
+
+/* Цвет онлайна #2*/
+.iUzxZP, .fTHFXj {
+    color: #ed4245 !important;
+}
+
+/* Цвет онлайна #3*/
+.gqxDoL {
+    fill: #ed4245 !important;
+}
+
+/* Надпись "новые сообщения" */
+.live-message-separator-line__hr{
+    border-color: #ed4245 !important;
+}
+
+/* Цвет полоски */
+.chat-wysiwyg-input__editor {
+    border-color: #5e758e !important;
+}
+
+/* Цвет иконок */
+.hdNNzQ, .gktgjG {
+    fill: #75b2ef;
+}
+
+/* Кнопки #2 */
+.hUInuk {
+    background-color: #252d38 !important;
+}
+
+/* Выделенные сообщения */
+.chat-line__message-body--highlighted {
+    background-color: #5b8ab9 !important;
+    border-color: #6295c7 !important;
+}
+
+/* Ссылки */
+.jSrrlW, .jKBAWW, .rsoRe, .jEhsPY {
+    color: #75b2ef !important;
+}
+
+/* Кнопки в главном меню */
+.fMIGgJ, .tw-root--theme-dark .navigation-link__active-indicator, .blwnUh {
+    background-color: #75b2ef !important;
+}
