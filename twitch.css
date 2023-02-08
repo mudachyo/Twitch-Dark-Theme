@@ -4,7 +4,7 @@
 }
 
 /* Описание и т.д */
-.eiGFTf, .iYgXhH, .iofXOu, .fFTwxZ, .bhLqhW, .elZcx, .cbnNmC, .fpduC, .btPUvt, .fkVAoF, .bzQeNe, .tw-root--theme-dark .side-nav-card__link:hover, .gaFNUc, .daXsjp, .channel-root__info .channel-info-content, .home-header-sticky, .home-header-sticky__inner, .home-header-sticky__wrapper, .stream-schedule__header, .jjtlTM, .video-player__container, .CpjkP, .chat-wysiwyg-input__editor, .chat-wysiwyg-input__editor:hover, .tw-root--theme-dark body
+.eiGFTf, .iYgXhH, .iofXOu, .fFTwxZ, .bhLqhW, .elZcx, .cbnNmC, .fpduC, .btPUvt, .fkVAoF, .bzQeNe, .tw-root--theme-dark .side-nav-card__link:hover, .gaFNUc, .daXsjp, .channel-root__info .channel-info-content, .home-header-sticky, .home-header-sticky__inner, .home-header-sticky__wrapper, .stream-schedule__header, .jjtlTM, .video-player__container, .CpjkP, .chat-wysiwyg-input__editor, .chat-wysiwyg-input__editor:hover, .tw-root--theme-dark body, .clWvTl
 {
     background-color: #1d242d !important;
 }
@@ -66,11 +66,19 @@
 }
 
 /* Ссылки */
-.jSrrlW, .jKBAWW, .rsoRe, .jEhsPY {
+.jSrrlW, .jKBAWW, .rsoRe, .jEhsPY, .dcpFuJ {
     color: #75b2ef !important;
 }
 
 /* Кнопки в главном меню */
-.fMIGgJ, .tw-root--theme-dark .navigation-link__active-indicator, .blwnUh {
+.fMIGgJ, .tw-root--theme-dark .navigation-link__active-indicator, .blwnUh, .kdthFn {
     background-color: #75b2ef !important;
+}
+
+/* Выделение сообщения в чате */
+.ffz-notice-line {
+    border-left: 4px solid rgb(91 135 179) !important;
+}
+.ffz--points-highlight {
+    background-color: rgb(48 72 96) !important;
 }
