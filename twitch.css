@@ -1,10 +1,10 @@
 /* Цвет меню, шапки, чата и т.д*/
-.tw-root--theme-dark .side-nav, .JwLSY, .fLaIqI, .jBYVfx, .hfPMPn, .jmUA-dj, .jaGgya, .gVEmBy, .hZLfAO, .gHqJZO, .kRxsqs, .idpcGQ, .jEOCXK, .tw-root--theme-dark .clips-top-nav-user, .hrPNwf, .jaTbxk, .dtKRXS {
+.tw-root--theme-dark .side-nav, .JwLSY, .fLaIqI, .jBYVfx, .hfPMPn, .jmUA-dj, .jaGgya, .gVEmBy, .hZLfAO, .gHqJZO, .kRxsqs, .idpcGQ, .jEOCXK, .tw-root--theme-dark .clips-top-nav-user, .hrPNwf, .jaTbxk, .dtKRXS, .dZGgjU, .tw-root--theme-dark .sunlight-expanded-nav-drop-down-menu-layout__scrollable-area, .iixrFd, .creator-home-right-section-layout, .creator-home-preaffiliate-stats-card, .kcTRCJ, .hFLuMr, .gvwVVK {
     background-color: #252d38 !important;
 }
 
 /* Описание и т.д */
-.eiGFTf, .iYgXhH, .iofXOu, .fFTwxZ, .bhLqhW, .elZcx, .cbnNmC, .fpduC, .btPUvt, .fkVAoF, .bzQeNe, .tw-root--theme-dark .side-nav-card__link:hover, .gaFNUc, .daXsjp, .channel-root__info .channel-info-content, .home-header-sticky, .home-header-sticky__inner, .home-header-sticky__wrapper, .stream-schedule__header, .jjtlTM, .video-player__container, .CpjkP, .chat-wysiwyg-input__editor, .chat-wysiwyg-input__editor:hover, .tw-root--theme-dark body, .clWvTl, .dFqqSQ, .jUZLoY, .deTqzm, .QCDcp, .cQJdqD, .extensions-popover-view-layout, .jbBypR, .ekipGw, .gwAmxf, .offer, .upsell
+.eiGFTf, .iYgXhH, .iofXOu, .fFTwxZ, .bhLqhW, .elZcx, .cbnNmC, .fpduC, .btPUvt, .fkVAoF, .bzQeNe, .tw-root--theme-dark .side-nav-card__link:hover, .gaFNUc, .daXsjp, .channel-root__info .channel-info-content, .home-header-sticky, .home-header-sticky__inner, .home-header-sticky__wrapper, .stream-schedule__header, .jjtlTM, .video-player__container, .CpjkP, .chat-wysiwyg-input__editor, .chat-wysiwyg-input__editor:hover, .tw-root--theme-dark body, .clWvTl, .dFqqSQ, .jUZLoY, .deTqzm, .QCDcp, .cQJdqD, .extensions-popover-view-layout, .jbBypR, .ekipGw, .gwAmxf, .offer, .upsell, .debcwL, .WZsAU, .gOCYPA, .tw-root--theme-dark .creator-home-action-card-layout, .creator-home-preaffiliates-hero-panel__far-from-affiliate, .fAYveE, .eeNwOd, .tw-root--theme-dark .stream-manager--page-view .mosaic-window-body, .tw-root--theme-dark .sunlight-tile
 {
     background-color: #1d242d !important;
 }
@@ -20,12 +20,12 @@
 }
 
 /* Галочка цвет и текст */
-.dvUIAv, .jSrrlW:visited, .llpCRa, .tw-root--theme-dark .navigation-link.active, .tw-root--theme-dark .navigation-link:hover {
+.dvUIAv, .jSrrlW:visited, .llpCRa, .tw-root--theme-dark .navigation-link.active, .tw-root--theme-dark .navigation-link:hover, a:hover {
     color: #75b2ef !important;
 }
 
 /* Цвет онлайна */
-.dMXHmM {
+.dMXHmM, .channel-status-info--live, .channel-status-info--watch-party {
     background-color: #ed4245 !important;
 }
 
@@ -50,7 +50,7 @@
 }
 
 /* Цвет иконок */
-.hdNNzQ, .gktgjG {
+.hdNNzQ, .gktgjG, .cLPvHy {
     fill: #75b2ef;
 }
 
@@ -71,27 +71,42 @@
 }
 
 /* Кнопки в главном меню */
-.fMIGgJ, .tw-root--theme-dark .navigation-link__active-indicator, .blwnUh, .kdthFn, .draggable-slider-handle--blue {
+.fMIGgJ, .tw-root--theme-dark .navigation-link__active-indicator, .blwnUh, .kdthFn, .draggable-slider-handle--blue, .eMTkvi, .MJrgJ, .ScToggleInput-sc-iguyno-1:checked + .qZlTz.qZlTz::after {
     background-color: #75b2ef !important;
 }
 
 /* Выделение сообщения в чате */
 .ffz-notice-line {
-    border-left: 4px solid rgb(91 135 179) !important;
-}
+    border-left: rgb(91 135 179) !important;}
 .ffz--points-highlight {
     background-color: rgb(48 72 96) !important;
 }
 
 /* Вырезка клипа */
 .draggable-slider__overlay--blue {
-    border-bottom: 2px solid #75b2ef !important;
-    border-top: 2px solid #75b2ef !important;
+    border-bottom-color: #75b2ef !important;
+    border-top-color: #75b2ef !important;
 }
 
 /* Обводка названия клипа */
 .gXVFsI:focus, .gXVFsI:focus:hover {
-    outline: none;
     border-color: #75b2ef !important;
     background-color: #1d242d !important;
+}
+
+/* Галочка в меню профиля */
+.ScToggleInput-sc-iguyno-1:checked + .qZlTz.qZlTz, .ScCheckBoxInputBase-sc-vu7u7d-1:checked + .cvAAxA.cvAAxA::before {
+    border-color: #75b2ef !important;
+    background-color: #1d242d !important;
+}
+.ScToggleInput-sc-iguyno-1:checked + .qZlTz.qZlTz::before {
+    border-color: #75b2ef !important;}
+
+/* Видеостудия цвет выделенного раздела */
+.esRSpc, .ecMXkN, .ScCheckBoxInputBase-sc-vu7u7d-1:checked + .cvAAxA.cvAAxA::after, .iCQzqC, .creator-home-shortcuts-panel-item__title-icon, .mosaic-split:active, .mosaic-split:hover {
+    background-color: #75b2ef !important;
+}
+
+.esRSpc:hover{
+    color: white !important;
 }
